@@ -6,11 +6,7 @@ ReactDOM.render(
     <h1 className="heading" contentEditable="true" spellCheck="false">
       My Favourite Foods
     </h1>
-    <ul>
-      <li>Bacon</li>
-      <li>Jamon</li>
-      <li>Chicken Malai Momos</li>
-    </ul>
+    <p>No favorite food as such. I eat and train. Yup that's all I do.</p>
   </div>,
   document.getElementById("root")
 );
