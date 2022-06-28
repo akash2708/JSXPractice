@@ -9,7 +9,7 @@ ReactDOM.render(
     <ul>
       <li>Bacon</li>
       <li>Jamon</li>
-      <li>Gulab Jamun</li>
+      <li>Chicken Malai Momos</li>
     </ul>
   </div>,
   document.getElementById("root")
